@@ -1,12 +1,12 @@
   <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/myrng44/">Bac!</a></h3>
-<img align="right" alt="GIF" height="184px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XRM9d0/giphy.gif">
+<img align="right" alt="GIF" height="184px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XR[...]
 <h2 id="im-a-student-at-vnu-university-of-science">I’m a Student at VNU University of Science</h2>
 <ul>
 <li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
 <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
 <li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
 </ul>
-<hr>
+<hr align="left" width="60%">
 <h5 id="languages-i-use">Languages I use</h5>
 <p><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=java" alt="Java">
@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-Heroku-222222?style=flat-square&amp;logo=heroku" alt="Heroku">
 <img src="https://img.shields.io/badge/-Unity-000000?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity">
 <br></p>
-<hr>
+<hr align="left" width="60%">
 <p>Credit: <a href="https://github.com/myrng44">Bac</a></p>
 <p>Last edited on: 13/05/2026</p> 
+
