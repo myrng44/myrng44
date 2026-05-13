@@ -1,16 +1,18 @@
 <h3>Hi there 👋 I’m <a href="https://github.com/myrng44/">Bac!</a></h3>
-
-<!-- ==================== THÊM PHẦN MY WEBSITE Ở ĐÂY ==================== -->
 <p>
   <strong>🌐 My Website:</strong> 
   <a href="www.nvbac.id.vn" target="_blank">nvbac.id.vn</a>
 </p>
-<!-- ================================================================== -->
-
 <h2>I’m a Student at VNU University of Science</h2>
-
-<img align="right" alt="GIF" height="184px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XRM9d0/giphy.gif">
-
+<table align="right" style="margin: 0 0 10px 20px; border: none; background: transparent;">
+  <tr>
+    <td style="padding: 0; border-radius: 20px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.35);">
+      <img alt="GIF" height="272px" 
+           style="display: block; border-radius: 20px;" 
+           src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XRM9d0/giphy.gif">
+    </td>
+  </tr>
+</table>
 <ul>
   <li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
   <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
