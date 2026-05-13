@@ -1,7 +1,7 @@
 <h3>Hi there 👋 I’m <a href="https://github.com/myrng44/">Bac!</a></h3>
 <p>
   <strong>🌐 My Website:</strong> 
-  <a href="www.nvbac.id.vn" target="_blank">nvbac.id.vn</a>
+  <a href="https://www.nvbac.id.vn" target="_blank">nvbac.id.vn</a>
 </p>
 <h2>Student at VNU University of Science</h2>
 <table align="right" style="margin: 0 0 10px 20px; border: none; background: transparent;">
