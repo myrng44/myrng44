@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Bac</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myrng44&label=Profile%20views&color=0e75b6&style=flat" alt="myrng44" /> </p>
-
-- 🌱 I’m currently learning **VNU University of Science**
-
-- 👨‍💻 All of my projects are available at [nvbac.id.vn](nvbac.id.vn)
-
-- 📝 I regularly write articles on [nvbac.id.vn](nvbac.id.vn)
-
-- 📫 How to reach me **nv.bac44@gmail.com**
-
-- 📄 Know about my experiences [nvbac.id.vn](nvbac.id.vn)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/100000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="100000" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myrng44&show_icons=true&locale=en&layout=compact" alt="myrng44" /></p>
+  <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/Danushka2/Danushka2/">Danushka!</a></h3>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<h2 id="im-a-associate-software-engineer-at-acentura">I’m a Associate Software Engineer at Acentura</h2>
+<ul>
+<li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
+<li>📚 Learning everything about Frontend and Backend technologies 😅</li>
+<li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
+</ul>
+<hr>
+<h5 id="languages-i-use">Languages I use</h5>
+<p><img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=c" alt="C">
+<img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=c%2B%2B" alt="C++">
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=java" alt="Java">
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript" alt="TypeScript">
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=postgresql" alt="SQL"></p>
+<h5 id="some-of-the-technologies-i-have-worked-with">Some of the technologies I have worked with</h5>
+<p><img src="https://img.shields.io/badge/-Git-222222?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-222222?style=flat&amp;logo=github&amp;logoColor=181717" alt="GitHub">
+<img src="https://img.shields.io/badge/-jQuery-222222?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
+<img src="https://img.shields.io/badge/-Linux-222222?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/-Node.js-222222?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
+<img src="https://img.shields.io/badge/-React-222222?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/-Spring-222222?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
+<img src="https://img.shields.io/badge/Firebase-222222?style=flat-square&amp;logo=firebase" alt="Firebase">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&amp;logo=microsoft-azure" alt="AzureCloud">
+<img src="https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&amp;logo=Amazon-Web-Service" alt="Amazon Web Services">
+<img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&amp;logo=google-cloud" alt="Google Cloud">
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">
+<img src="https://img.shields.io/badge/-Heroku-222222?style=flat-square&amp;logo=heroku" alt="Heroku">
+<br></p>
+<hr>
+<p>Credit: <a href="https://github.com/Danushka2">Danushka2</a></p>
+<p>Last edited on: 30/06/2022</p> 
