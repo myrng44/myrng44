@@ -30,7 +30,6 @@
 
 <h5>Some of the technologies I have worked with</h5>
 <p>
-  <img src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717" alt="GitHub">
   <img src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F" alt="Java Spring">
