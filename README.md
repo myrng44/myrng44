@@ -1,6 +1,10 @@
-  <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/myrng44/">Bac!</a></h3>
-<img align="right" alt="GIF" height="124px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XRM9d0/giphy.gif">
+<h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/myrng44/">Bac!</a></h3>
+<p>
+  <strong>🌐 My Website:</strong> 
+  <a href="www.nvbac.id.vn" target="_blank">nvbac.id.vn</a>
+</p>
 <h2 id="im-a-student-at-vnu-university-of-science">I’m a Student at VNU University of Science</h2>
+<img align="right" alt="GIF" height="184px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2x5cjZvODd5bms3ZmxyMXZ3Zzh4MmJibWcwcXo3dzc3Y3dyNzJ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jls5k3a7L1N0XRM9d0/giphy.gif">
 <ul>
 <li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
 <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
