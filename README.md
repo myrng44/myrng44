@@ -3,7 +3,7 @@
   <strong>🌐 My Website:</strong> 
   <a href="www.nvbac.id.vn" target="_blank">nvbac.id.vn</a>
 </p>
-<h2>I’m a Student at VNU University of Science</h2>
+<h2>Student at VNU University of Science</h2>
 <table align="right" style="margin: 0 0 10px 20px; border: none; background: transparent;">
   <tr>
     <td style="padding: 0; border-radius: 20px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.35);">
@@ -15,7 +15,7 @@
 </table>
 <ul>
   <li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
-  <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
+  <li>📚 Learning everything about Frontend, Backend technologies, even Game development frameworks 😅</li>
   <li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
 </ul>
 
@@ -34,10 +34,8 @@
   <img src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717" alt="GitHub">
   <img src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F" alt="Java Spring">
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku" alt="Heroku">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
 </p>
 
