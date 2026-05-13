@@ -42,5 +42,3 @@
 </p>
 
 <hr>
-<p>Credit: <a href="https://github.com/myrng44">Bac</a></p>
-<p>Last edited on: 13/05/2026</p>
