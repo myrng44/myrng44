@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5">
   <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-PosgreSQL-000000?style=flat&logo=postgresql" alt="PostgreSQL">
 </p>
 
 <h5>Some of the technologies I have worked with</h5>
